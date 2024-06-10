@@ -1,3 +1,5 @@
+![yx](C:\Users\Administrator\Documents\small_world\yx.png)
+
 # A friendly warning
 
 In the source code, I published some information of my frp server. Like my server's IP. If you want to access the website, you can go [SDSZ computer science club](sdszalg.cn).
