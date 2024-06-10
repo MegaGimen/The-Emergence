@@ -43,3 +43,5 @@ Note, if Paul is Sam's good friend and Sam wants him to know, he can send Sam hi
 Currently, we haven't dev the messagebox's show and we want to make the showing str beautiful. It's know sth like: "[SAT classmate, online friend]", the return is a list, but who likes seeing list in dark console? (If your theme is other color, forget it)
 
 Besides, I hope to make the network healthier by appyling some strategies on it.
+
+I want the project to accept more UI's languages, including Chinese and English
