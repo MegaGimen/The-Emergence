@@ -1,4 +1,14 @@
+# Overview
+
 The program should run in Windows.
+
+## files' descriptions
+
+The main code is in main.py
+
+Everything related to frp is in "connect" folder
+
+**Note!!!** I changed the asyncio and kademlia module because they have bugs(Maybe is my bug? Who cares) like the buffer is None instead of an empty dequeue. So I uploaded the asyncio and kademlia modules on the GitHub
 
 Have you ever wondered why he knows him? Like your TOEFL class' classmate's high school classmate is your middle school's classmate, our project "The-Emergence" is used to solve these kinds of issue
 
@@ -27,3 +37,9 @@ Sam<--(SAT classmate)-->Jacob<--(online friend)--> Jaycee
 ```
 
 Note, if Paul is Sam's good friend and Sam wants him to know, he can send Sam his $sk$ **towards this specific relationship** and Paul can know find it.
+
+# future dev road map (the term "road map" is aimed at showing respect to Sunorange, miss you, xjc)
+
+Currently, we haven't dev the messagebox's show and we want to make the showing str beautiful. It's know sth like: "[SAT classmate, online friend]", the return is a list, but who likes seeing list in dark console? (If your theme is other color, forget it)
+
+Besides, I hope to make the network healthier by appyling some strategies on it.
