@@ -26,12 +26,12 @@ In order to keep personal secret, one can choose whether publish the new relatio
 
 Here's an simple example:
 The real relationship map is:
-​``` text
+``` text
 1. Sam<--(neighbor in childhood)--> Kevin
 2. Sam<--(SAT classmate)--> Jacob
 3. Jacob<--(online friend)--> Jaycee
 4. Kevin<--(team members in USACO summer camp)--> Paul
-​```
+```
 and relationship 3 and 4 is published, so everyone on the route may find it
 
 Say that you're Sam, you publish relationship 2 in public but 1 in private, which is encrypted by $pk$ and $sk$ .
