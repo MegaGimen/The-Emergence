@@ -1,3 +1,11 @@
+# A friendly warning
+
+In the source code, I published some information of my frp server. Like my server's IP. If you want to access the website, you can go [SDSZ computer science club](sdszalg.cn).
+
+If you use it as a free tool to do NAT traversal, emm, OK... so far
+
+**However, if you attack our server like DDOS, killer Jack may love you**
+
 # Overview
 
 The program should run in Windows.
