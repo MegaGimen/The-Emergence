@@ -1,4 +1,4 @@
-![yx](C:\Users\Administrator\Documents\small_world\yx.png)
+![yx](yx.png)
 
 # A friendly warning
 
