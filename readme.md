@@ -1,4 +1,4 @@
-![yx](yx.png)
+![yx](./yx.png)
 
 # A friendly warning
 
