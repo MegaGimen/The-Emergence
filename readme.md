@@ -53,7 +53,3 @@ Currently, we haven't dev the messagebox's show and we want to make the showing 
 Besides, I hope to make the network healthier by appyling some strategies on it.
 
 I want the project to accept more UI's languages, including Chinese and English
-
-```
-
-```
